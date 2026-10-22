@@ -1,0 +1,4 @@
+Variable,Cantidad disponible,Media,Desviación estándar,Mínimo,Primer cuartil,Mediana,Tercer cuartil,Máximo
+tenure,6748.0,32.23,24.53,0.0,9.0,29.0,55.0,72.0
+MonthlyCharges,6816.0,84.08,173.02,-99.0,33.98,70.35,90.4,1990.05
+TotalCharges,6930.0,2285.28,2264.12,18.8,401.5,1400.42,3807.84,8684.8

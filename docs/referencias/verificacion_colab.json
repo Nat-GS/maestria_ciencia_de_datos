@@ -1,0 +1,15 @@
+{
+  "fecha": "2026-10-17",
+  "notebook_id": "1HK9Qsc4s_ua4o7uI-J6FBDtY4bpNCykE",
+  "original_drive_id": "1Rkq42BS8xWVIvIFzFW83wlWA3nrlRk6f",
+  "sucio_drive_id": "1o1Ilpxk69avNJ0rP6DAooWObG6fE-EZ1",
+  "hashes_sha256": {
+    "original_local": "88be4b93fbe0cc83421af1c503794c97c342eca914c1576db7c276e61d61358a",
+    "original_drive": "88be4b93fbe0cc83421af1c503794c97c342eca914c1576db7c276e61d61358a",
+    "sucio_local": "9513c385194c67fc51ab70d5af7f33df578179b75a43f4b511e38b62897cacfe",
+    "sucio_drive": "9513c385194c67fc51ab70d5af7f33df578179b75a43f4b511e38b62897cacfe",
+    "notebook": "ceac34b70868d62f757ae937086061bf192ad2f8fc8ac945eddfc571df0e8ef0"
+  },
+  "original_identico_byte_a_byte": true,
+  "sucio_identico_byte_a_byte": true
+}

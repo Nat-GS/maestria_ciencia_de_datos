@@ -1,0 +1,617 @@
+{
+  "fecha": "2026-10-22",
+  "version_datos": "Datos tal como se recibieron",
+  "filtros": "Sin filtros: todos los contratos e internet; incluir contratos ausentes",
+  "fuentes": [
+    {
+      "archivo": "telco_csv_1.csv",
+      "sha256": "4699d2054e8c740c6899aef71f6e5374fc631c8b2152cecff254f292d775da56"
+    },
+    {
+      "archivo": "telco_csv_2.csv",
+      "sha256": "64ff0b1da5c5ba5d180f3b5169f007c0b37f09f5c3d4045fa3712919d2172e3d"
+    },
+    {
+      "archivo": "telco_csv_3.csv",
+      "sha256": "def8c8739d9c5adc4a9e05efb9cc410f8cd027d7002d672cfc1daa726b9e37f3"
+    }
+  ],
+  "vistas": [
+    {
+      "seccion": "Inicio",
+      "titulo": "Inicio · objetivo, archivos, integración y diccionario · tramo 1",
+      "captura": "docs/pdf/capturas/001_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Inicio · objetivo, archivos, integración y diccionario · tramo 2",
+      "captura": "docs/pdf/capturas/002_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Inicio · objetivo, archivos, integración y diccionario · tramo 3",
+      "captura": "docs/pdf/capturas/003_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Inicio · objetivo, archivos, integración y diccionario · tramo 4",
+      "captura": "docs/pdf/capturas/004_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Inicio · objetivo, archivos, integración y diccionario · tramo 5",
+      "captura": "docs/pdf/capturas/005_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Inicio · objetivo, archivos, integración y diccionario · tramo 6",
+      "captura": "docs/pdf/capturas/006_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Integración completa · tabla 1 · filas 1, columnas 1",
+      "captura": "docs/pdf/capturas/007_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Integración completa · tabla 2 · filas 1, columnas 1",
+      "captura": "docs/pdf/capturas/008_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Integración completa · tabla 2 · filas 1, columnas 2",
+      "captura": "docs/pdf/capturas/009_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Integración completa · tabla 2 · filas 1, columnas 3",
+      "captura": "docs/pdf/capturas/010_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Integración completa · tabla 2 · filas 2, columnas 1",
+      "captura": "docs/pdf/capturas/011_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Integración completa · tabla 2 · filas 2, columnas 2",
+      "captura": "docs/pdf/capturas/012_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Integración completa · tabla 2 · filas 2, columnas 3",
+      "captura": "docs/pdf/capturas/013_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Integración completa · tabla 2 · filas 3, columnas 1",
+      "captura": "docs/pdf/capturas/014_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Integración completa · tabla 2 · filas 3, columnas 2",
+      "captura": "docs/pdf/capturas/015_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Integración completa · tabla 2 · filas 3, columnas 3",
+      "captura": "docs/pdf/capturas/016_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Integración completa · tabla 2 · filas 4, columnas 1",
+      "captura": "docs/pdf/capturas/017_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Integración completa · tabla 2 · filas 4, columnas 2",
+      "captura": "docs/pdf/capturas/018_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Integración completa · tabla 2 · filas 4, columnas 3",
+      "captura": "docs/pdf/capturas/019_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Integración completa · tabla 3 · filas 1, columnas 1",
+      "captura": "docs/pdf/capturas/020_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Vista previa: telco_csv_1.csv · primeras 30 filas · filas 1, columnas 1",
+      "captura": "docs/pdf/capturas/021_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Vista previa: telco_csv_1.csv · primeras 30 filas · filas 1, columnas 2",
+      "captura": "docs/pdf/capturas/022_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Vista previa: telco_csv_1.csv · primeras 30 filas · filas 1, columnas 3",
+      "captura": "docs/pdf/capturas/023_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Vista previa: telco_csv_1.csv · primeras 30 filas · filas 2, columnas 1",
+      "captura": "docs/pdf/capturas/024_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Vista previa: telco_csv_1.csv · primeras 30 filas · filas 2, columnas 2",
+      "captura": "docs/pdf/capturas/025_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Vista previa: telco_csv_1.csv · primeras 30 filas · filas 2, columnas 3",
+      "captura": "docs/pdf/capturas/026_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Vista previa: telco_csv_1.csv · primeras 30 filas · filas 3, columnas 1",
+      "captura": "docs/pdf/capturas/027_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Vista previa: telco_csv_1.csv · primeras 30 filas · filas 3, columnas 2",
+      "captura": "docs/pdf/capturas/028_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Vista previa: telco_csv_1.csv · primeras 30 filas · filas 3, columnas 3",
+      "captura": "docs/pdf/capturas/029_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Vista previa: telco_csv_1.csv · primeras 30 filas · filas 4, columnas 1",
+      "captura": "docs/pdf/capturas/030_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Vista previa: telco_csv_1.csv · primeras 30 filas · filas 4, columnas 2",
+      "captura": "docs/pdf/capturas/031_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Vista previa: telco_csv_1.csv · primeras 30 filas · filas 4, columnas 3",
+      "captura": "docs/pdf/capturas/032_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Vista previa: telco_csv_2.csv · primeras 30 filas · filas 1, columnas 1",
+      "captura": "docs/pdf/capturas/033_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Vista previa: telco_csv_2.csv · primeras 30 filas · filas 1, columnas 2",
+      "captura": "docs/pdf/capturas/034_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Vista previa: telco_csv_2.csv · primeras 30 filas · filas 1, columnas 3",
+      "captura": "docs/pdf/capturas/035_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Vista previa: telco_csv_2.csv · primeras 30 filas · filas 2, columnas 1",
+      "captura": "docs/pdf/capturas/036_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Vista previa: telco_csv_2.csv · primeras 30 filas · filas 2, columnas 2",
+      "captura": "docs/pdf/capturas/037_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Vista previa: telco_csv_2.csv · primeras 30 filas · filas 2, columnas 3",
+      "captura": "docs/pdf/capturas/038_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Vista previa: telco_csv_2.csv · primeras 30 filas · filas 3, columnas 1",
+      "captura": "docs/pdf/capturas/039_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Vista previa: telco_csv_2.csv · primeras 30 filas · filas 3, columnas 2",
+      "captura": "docs/pdf/capturas/040_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Vista previa: telco_csv_2.csv · primeras 30 filas · filas 3, columnas 3",
+      "captura": "docs/pdf/capturas/041_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Vista previa: telco_csv_2.csv · primeras 30 filas · filas 4, columnas 1",
+      "captura": "docs/pdf/capturas/042_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Vista previa: telco_csv_2.csv · primeras 30 filas · filas 4, columnas 2",
+      "captura": "docs/pdf/capturas/043_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Vista previa: telco_csv_2.csv · primeras 30 filas · filas 4, columnas 3",
+      "captura": "docs/pdf/capturas/044_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Vista previa: telco_csv_3.csv · primeras 30 filas · filas 1, columnas 1",
+      "captura": "docs/pdf/capturas/045_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Vista previa: telco_csv_3.csv · primeras 30 filas · filas 1, columnas 2",
+      "captura": "docs/pdf/capturas/046_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Vista previa: telco_csv_3.csv · primeras 30 filas · filas 1, columnas 3",
+      "captura": "docs/pdf/capturas/047_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Vista previa: telco_csv_3.csv · primeras 30 filas · filas 2, columnas 1",
+      "captura": "docs/pdf/capturas/048_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Vista previa: telco_csv_3.csv · primeras 30 filas · filas 2, columnas 2",
+      "captura": "docs/pdf/capturas/049_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Vista previa: telco_csv_3.csv · primeras 30 filas · filas 2, columnas 3",
+      "captura": "docs/pdf/capturas/050_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Vista previa: telco_csv_3.csv · primeras 30 filas · filas 3, columnas 1",
+      "captura": "docs/pdf/capturas/051_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Vista previa: telco_csv_3.csv · primeras 30 filas · filas 3, columnas 2",
+      "captura": "docs/pdf/capturas/052_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Vista previa: telco_csv_3.csv · primeras 30 filas · filas 3, columnas 3",
+      "captura": "docs/pdf/capturas/053_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Vista previa: telco_csv_3.csv · primeras 30 filas · filas 4, columnas 1",
+      "captura": "docs/pdf/capturas/054_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Vista previa: telco_csv_3.csv · primeras 30 filas · filas 4, columnas 2",
+      "captura": "docs/pdf/capturas/055_Inicio.png"
+    },
+    {
+      "seccion": "Inicio",
+      "titulo": "Vista previa: telco_csv_3.csv · primeras 30 filas · filas 4, columnas 3",
+      "captura": "docs/pdf/capturas/056_Inicio.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Exploración · Resumen numérico · tramo 1",
+      "captura": "docs/pdf/capturas/057_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Exploración · Resumen numérico · tramo 2",
+      "captura": "docs/pdf/capturas/058_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Resumen numérico · tabla 1 · filas 1, columnas 1",
+      "captura": "docs/pdf/capturas/059_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Exploración · Distribuciones numéricas · tramo 1",
+      "captura": "docs/pdf/capturas/060_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Exploración · Distribuciones numéricas · tramo 2",
+      "captura": "docs/pdf/capturas/061_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Exploración · Categorías · tramo 1",
+      "captura": "docs/pdf/capturas/062_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Exploración · Categorías · tramo 2",
+      "captura": "docs/pdf/capturas/063_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Exploración · Categorías · tramo 3",
+      "captura": "docs/pdf/capturas/064_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Exploración · Categorías · tramo 4",
+      "captura": "docs/pdf/capturas/065_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Exploración · Categorías · tramo 5",
+      "captura": "docs/pdf/capturas/066_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Exploración · Abandono por contrato · tramo 1",
+      "captura": "docs/pdf/capturas/067_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Exploración · Abandono por contrato · tramo 2",
+      "captura": "docs/pdf/capturas/068_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Exploración · Abandono por contrato · tramo 3",
+      "captura": "docs/pdf/capturas/069_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Abandono por contrato · tabla 1 · filas 1, columnas 1",
+      "captura": "docs/pdf/capturas/070_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Frecuencias · Género · filas 1, columnas 1",
+      "captura": "docs/pdf/capturas/071_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Frecuencias · Adulto mayor · filas 1, columnas 1",
+      "captura": "docs/pdf/capturas/072_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Frecuencias · Pareja · filas 1, columnas 1",
+      "captura": "docs/pdf/capturas/073_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Frecuencias · Dependientes · filas 1, columnas 1",
+      "captura": "docs/pdf/capturas/074_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Frecuencias · Servicio telefónico · filas 1, columnas 1",
+      "captura": "docs/pdf/capturas/075_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Frecuencias · Varias líneas · filas 1, columnas 1",
+      "captura": "docs/pdf/capturas/076_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Frecuencias · Servicio de internet · filas 1, columnas 1",
+      "captura": "docs/pdf/capturas/077_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Frecuencias · Seguridad en línea · filas 1, columnas 1",
+      "captura": "docs/pdf/capturas/078_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Frecuencias · Respaldo en línea · filas 1, columnas 1",
+      "captura": "docs/pdf/capturas/079_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Frecuencias · Protección de dispositivos · filas 1, columnas 1",
+      "captura": "docs/pdf/capturas/080_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Frecuencias · Soporte técnico · filas 1, columnas 1",
+      "captura": "docs/pdf/capturas/081_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Frecuencias · Streaming de televisión · filas 1, columnas 1",
+      "captura": "docs/pdf/capturas/082_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Frecuencias · Streaming de películas · filas 1, columnas 1",
+      "captura": "docs/pdf/capturas/083_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Frecuencias · Contrato · filas 1, columnas 1",
+      "captura": "docs/pdf/capturas/084_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Frecuencias · Facturación electrónica · filas 1, columnas 1",
+      "captura": "docs/pdf/capturas/085_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Frecuencias · Método de pago · filas 1, columnas 1",
+      "captura": "docs/pdf/capturas/086_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Frecuencias · Abandono · filas 1, columnas 1",
+      "captura": "docs/pdf/capturas/087_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Calidad de datos · controles y conflictos · tramo 1",
+      "captura": "docs/pdf/capturas/088_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Calidad de datos · controles y conflictos · tramo 2",
+      "captura": "docs/pdf/capturas/089_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Calidad de datos · controles y conflictos · tramo 3",
+      "captura": "docs/pdf/capturas/090_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Calidad de datos · controles y conflictos · tramo 4",
+      "captura": "docs/pdf/capturas/091_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Calidad de datos · controles y conflictos · tramo 5",
+      "captura": "docs/pdf/capturas/092_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Calidad de datos · controles y conflictos · tramo 6",
+      "captura": "docs/pdf/capturas/093_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Calidad de datos · controles y conflictos · tramo 7",
+      "captura": "docs/pdf/capturas/094_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Calidad de datos · controles y conflictos · tramo 8",
+      "captura": "docs/pdf/capturas/095_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Calidad de datos · tabla 1 · filas 1, columnas 1",
+      "captura": "docs/pdf/capturas/096_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Calidad de datos · tabla 2 · filas 1, columnas 1",
+      "captura": "docs/pdf/capturas/097_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Calidad de datos · tabla 3 · filas 1, columnas 1",
+      "captura": "docs/pdf/capturas/098_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Calidad de datos · tabla 3 · filas 2, columnas 1",
+      "captura": "docs/pdf/capturas/099_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Calidad de datos · tabla 3 · filas 3, columnas 1",
+      "captura": "docs/pdf/capturas/100_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Calidad de datos · tabla 4 · filas 1, columnas 1",
+      "captura": "docs/pdf/capturas/101_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Calidad de datos · tabla 5 · filas 1, columnas 1",
+      "captura": "docs/pdf/capturas/102_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Calidad de datos · tabla 5 · filas 2, columnas 1",
+      "captura": "docs/pdf/capturas/103_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Calidad de datos · tabla 5 · filas 3, columnas 1",
+      "captura": "docs/pdf/capturas/104_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Calidad de datos · tabla 5 · filas 4, columnas 1",
+      "captura": "docs/pdf/capturas/105_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Calidad de datos · tabla 6 · filas 1, columnas 1",
+      "captura": "docs/pdf/capturas/106_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Calidad de datos · tabla 6 · filas 1, columnas 2",
+      "captura": "docs/pdf/capturas/107_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "Calidad de datos · tabla 6 · filas 1, columnas 3",
+      "captura": "docs/pdf/capturas/108_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "KPIs complementarios · Servicio de internet",
+      "captura": "docs/pdf/capturas/109_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "KPIs · Servicio de internet · tabla 1 · filas 1, columnas 1",
+      "captura": "docs/pdf/capturas/110_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "KPIs · Servicio de internet · tabla 2 · filas 1, columnas 1",
+      "captura": "docs/pdf/capturas/111_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "KPIs complementarios · Intervalo de antigüedad",
+      "captura": "docs/pdf/capturas/112_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "KPIs · Intervalo de antigüedad · tabla 1 · filas 1, columnas 1",
+      "captura": "docs/pdf/capturas/113_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "KPIs · Intervalo de antigüedad · tabla 2 · filas 1, columnas 1",
+      "captura": "docs/pdf/capturas/114_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "KPIs complementarios · Intervalo de cargo mensual",
+      "captura": "docs/pdf/capturas/115_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "KPIs · Intervalo de cargo mensual · tabla 1 · filas 1, columnas 1",
+      "captura": "docs/pdf/capturas/116_Exploracion.png"
+    },
+    {
+      "seccion": "Exploracion",
+      "titulo": "KPIs · Intervalo de cargo mensual · tabla 2 · filas 1, columnas 1",
+      "captura": "docs/pdf/capturas/117_Exploracion.png"
+    }
+  ],
+  "pdfs": [
+    {
+      "archivo": "docs/pdf/Inicio.pdf",
+      "paginas": 56
+    },
+    {
+      "archivo": "docs/pdf/Exploracion.pdf",
+      "paginas": 61
+    }
+  ],
+  "version_app_sha256": "c18a47e5e75f9bc3055a37be99e93d3d7a755c05207955c6fff38ad045917570"
+}

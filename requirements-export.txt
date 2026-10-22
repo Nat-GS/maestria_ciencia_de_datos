@@ -1,0 +1,4 @@
+# Herramientas opcionales para capturar las páginas reales y exportarlas a PDF.
+playwright==1.64.0
+reportlab==5.0.1
+pypdf==6.21.2

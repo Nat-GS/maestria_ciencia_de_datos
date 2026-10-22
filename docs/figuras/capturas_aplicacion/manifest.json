@@ -1,0 +1,204 @@
+{
+  "estado": {
+    "version": "Datos tal como se recibieron",
+    "filtros": "Sin filtros",
+    "registros": 7303,
+    "archivos": [
+      {
+        "Archivo": "telco_sucio_1.csv",
+        "Filas": 2395,
+        "Columnas": 21,
+        "SHA-256": "4699d2054e8c740c6899aef71f6e5374fc631c8b2152cecff254f292d775da56"
+      },
+      {
+        "Archivo": "telco_sucio_2.csv",
+        "Filas": 2394,
+        "Columnas": 21,
+        "SHA-256": "64ff0b1da5c5ba5d180f3b5169f007c0b37f09f5c3d4045fa3712919d2172e3d"
+      },
+      {
+        "Archivo": "telco_sucio_3.csv",
+        "Filas": 2514,
+        "Columnas": 21,
+        "SHA-256": "def8c8739d9c5adc4a9e05efb9cc410f8cd027d7002d672cfc1daa726b9e37f3"
+      }
+    ],
+    "viewport": "1000, 1280 y 1536 px según componente; diseño responsivo sin alterar estilos",
+    "escala": 2
+  },
+  "capturas": [
+    {
+      "archivo": "tabla_archivos.png",
+      "vista": "Inicio / Archivos de datos",
+      "sha256": "dfc2069fa0379725d636e228ac8a95ab810998fd23123c8c50b77276a33f16d9"
+    },
+    {
+      "archivo": "tabla_estadisticas.png",
+      "vista": "Exploración / Resumen numérico",
+      "sha256": "34f3810540ef138ab77a5572029f9b8f2926b1169f9ce505227e7eec4bf22b19"
+    },
+    {
+      "archivo": "hist_tenure.png",
+      "vista": "Exploración / Distribuciones numéricas",
+      "sha256": "b50388d234a11050593b283ef5b82b7d43f4ec34e2609712d9eecb980c5f103b"
+    },
+    {
+      "archivo": "hist_MonthlyCharges.png",
+      "vista": "Exploración / Distribuciones numéricas",
+      "sha256": "58d6cbbedb16fcb4469ad3c93dcb49e4ef05ee313e60704a261374207e3b238e"
+    },
+    {
+      "archivo": "hist_TotalCharges.png",
+      "vista": "Exploración / Distribuciones numéricas",
+      "sha256": "98502ca2dac02d01f54e4220ee5afcee2d363951eb2bad6d4740f2e6fe942d00"
+    },
+    {
+      "archivo": "categoria_gender.png",
+      "vista": "Exploración / Categorías",
+      "sha256": "c5172e0e82cab713140cc60a92c05dbac67132c85d2503f03c545a98d825cd1f"
+    },
+    {
+      "archivo": "categoria_SeniorCitizen.png",
+      "vista": "Exploración / Categorías",
+      "sha256": "8e520b16c2dac50ce6d5cf34300cc31e408868953e8e13e4f7c16254394d9b58"
+    },
+    {
+      "archivo": "categoria_Contract.png",
+      "vista": "Exploración / Categorías",
+      "sha256": "1fbad79ce9e8ab35d81b4ca0a39eed29943e546358884ef78c023f5ea75b4231"
+    },
+    {
+      "archivo": "categoria_InternetService.png",
+      "vista": "Exploración / Categorías",
+      "sha256": "a94c1553cd30471f6a42c50109e38d4137c8496bfc172817ee85de72e3244b64"
+    },
+    {
+      "archivo": "categoria_PaymentMethod.png",
+      "vista": "Exploración / Categorías",
+      "sha256": "5e2e949ca58947a3436150ba2c0abc962b3483ccecb378cdd77719860d8213e5"
+    },
+    {
+      "archivo": "categoria_Churn.png",
+      "vista": "Exploración / Categorías",
+      "sha256": "1c1b2cb09178a4acf263d8e6e605f3b87ce0b3b06fee0412285284d9003e0e15"
+    },
+    {
+      "archivo": "frecuencias_gender.png",
+      "vista": "Exploración / Categorías / Género",
+      "sha256": "c6f09c694cee04d91d44056283bdba8a0b0e62d2a7b1f4fb018941567c6a7dfb"
+    },
+    {
+      "archivo": "frecuencias_SeniorCitizen.png",
+      "vista": "Exploración / Categorías / Adulto mayor",
+      "sha256": "79bf88a26ac8028db9bbd4603f4f042f9aca00ca375ec6acba998fe10a1bd145"
+    },
+    {
+      "archivo": "frecuencias_Partner.png",
+      "vista": "Exploración / Categorías / Pareja",
+      "sha256": "28f8454f0fe227b9f1f270ed13b50aac7b0a50951d5ca71530e999674ab65c1b"
+    },
+    {
+      "archivo": "frecuencias_Dependents.png",
+      "vista": "Exploración / Categorías / Dependientes",
+      "sha256": "606fe6c04bc5d517b1eb35ffe30075970982180ebb5ee708142b387169cce626"
+    },
+    {
+      "archivo": "frecuencias_PhoneService.png",
+      "vista": "Exploración / Categorías / Servicio telefónico",
+      "sha256": "3d5dcfb99f4347fae631f06f2e1bf1ca4380126ebeb3665142d7e65612f2613a"
+    },
+    {
+      "archivo": "frecuencias_MultipleLines.png",
+      "vista": "Exploración / Categorías / Varias líneas",
+      "sha256": "02bca46b1178134759f236e22ede2e5984bdb3cafbc52d8186bad5ebce9b7126"
+    },
+    {
+      "archivo": "frecuencias_InternetService.png",
+      "vista": "Exploración / Categorías / Servicio de internet",
+      "sha256": "ef2930901a83b606da221c6b1ecab4e757a80556221121b340cb78516d641fb7"
+    },
+    {
+      "archivo": "frecuencias_OnlineSecurity.png",
+      "vista": "Exploración / Categorías / Seguridad en línea",
+      "sha256": "d6f80305ca1ece77ba89c3482d9ada37f6c08bd84787aa03f110b7c4d879f4f1"
+    },
+    {
+      "archivo": "frecuencias_OnlineBackup.png",
+      "vista": "Exploración / Categorías / Respaldo en línea",
+      "sha256": "298bf658a9cd2f630ae593a72e4fc42c8b169dff36b8aa15efc564934c1cc9ed"
+    },
+    {
+      "archivo": "frecuencias_DeviceProtection.png",
+      "vista": "Exploración / Categorías / Protección de dispositivos",
+      "sha256": "5a420b30c861961bd267f8ef4a421f6633f24f9fe211bfd550cdc646c6bb9a76"
+    },
+    {
+      "archivo": "frecuencias_TechSupport.png",
+      "vista": "Exploración / Categorías / Soporte técnico",
+      "sha256": "0df81e9fa4b4df8a8dd596998e9365ad6ca626a8cd53b836c2d58cc1691b73fd"
+    },
+    {
+      "archivo": "frecuencias_StreamingTV.png",
+      "vista": "Exploración / Categorías / Streaming de televisión",
+      "sha256": "ac8bebc1520ba7689b9d0d061200cbbbbe3234072236c0bb2dcedd9d7a28eb08"
+    },
+    {
+      "archivo": "frecuencias_StreamingMovies.png",
+      "vista": "Exploración / Categorías / Streaming de películas",
+      "sha256": "d8d12c3b634967c667bdcee9fcb1ddc70001a26a931ae66a74c12b5f6cb4124d"
+    },
+    {
+      "archivo": "frecuencias_Contract.png",
+      "vista": "Exploración / Categorías / Contrato",
+      "sha256": "b6f1ef052e7906bd1a2b43fea65d699261144ecb8d7c65b85b8bf6576eb68e00"
+    },
+    {
+      "archivo": "frecuencias_PaperlessBilling.png",
+      "vista": "Exploración / Categorías / Facturación electrónica",
+      "sha256": "91d17158340a5fb1c06863196392308646f06ce37d090899d1a696687750ef3b"
+    },
+    {
+      "archivo": "frecuencias_PaymentMethod.png",
+      "vista": "Exploración / Categorías / Método de pago",
+      "sha256": "475d598328c42f628a92df440e9e62f18d5d4fb0a67baec6717636770face09d"
+    },
+    {
+      "archivo": "frecuencias_Churn.png",
+      "vista": "Exploración / Categorías / Abandono",
+      "sha256": "996287427620f9cc906873db3cb8e60b63ef1c99df480f9638980a4d53ec03d5"
+    },
+    {
+      "archivo": "abandono_contrato.png",
+      "vista": "Exploración / Abandono por contrato",
+      "sha256": "949f526e9021cd897848c2fe9256a70718e236d3f9b5667c294106b6d5a6692d"
+    },
+    {
+      "archivo": "tabla_abandono_contrato.png",
+      "vista": "Exploración / Abandono por contrato",
+      "sha256": "b418a6e47d658ab7994dc665cbcc28a7ff0c8596691da4b994d0b0b8d1b11d85"
+    },
+    {
+      "archivo": "calidad_nulos.png",
+      "vista": "Exploración / Calidad de datos / Dónde falta información",
+      "sha256": "e60ccfd7291b70e7b9ff0f258cca8320bf499aebab4be8ba841f129fb168ba29"
+    },
+    {
+      "archivo": "tabla_controles_calidad.png",
+      "vista": "Exploración / Calidad de datos / Controles de calidad",
+      "sha256": "65f13f33ff7d755b6a38e6fcec130f2d2bb86a80be237bd54f6a2ca9b3b8b48d"
+    },
+    {
+      "archivo": "tabla_contratos_calidad.png",
+      "vista": "Exploración / Calidad de datos / Variantes y ausentes de contrato",
+      "sha256": "11a185b666446b587d2661f6375993e5abd7d06a98d0035d48e8e43bd7072f0f"
+    }
+  ],
+  "documento": {
+    "archivo": "TF_GUTIERREZ_SOLIZ_NATALIA_2026.docx",
+    "sha256": "a034082174e486d03143bb1b2ef201a34acaf56b78de398bc2d3ef7c6673cc18",
+    "capturas_incrustadas": 33,
+    "tablas_originales_no_modificadas": 4,
+    "respaldo": "docs/respaldos/TF_GUTIERREZ_SOLIZ_NATALIA_2026_antes_coincidencia_visual_20261017_160043.docx",
+    "ultima_edicion_textual": "Selección de los datos; capturas sin cambios"
+  }
+}

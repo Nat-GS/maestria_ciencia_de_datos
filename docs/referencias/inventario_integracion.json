@@ -1,0 +1,27 @@
+{
+  "notebook_url": "https://colab.research.google.com/drive/1XvwNXWW5_AGOKTid3WT7Dfc16hh7h-vz",
+  "notebook_sha256": "148c6e63c98e5bf6559a6a1e80b4146cd9a071d999c23f1bb0eff044946dc4b8",
+  "fuentes": [
+    {
+      "Archivo": "telco_sucio_1.csv",
+      "Filas": 2395,
+      "Columnas": 21,
+      "SHA-256": "4699d2054e8c740c6899aef71f6e5374fc631c8b2152cecff254f292d775da56"
+    },
+    {
+      "Archivo": "telco_sucio_2.csv",
+      "Filas": 2394,
+      "Columnas": 21,
+      "SHA-256": "64ff0b1da5c5ba5d180f3b5169f007c0b37f09f5c3d4045fa3712919d2172e3d"
+    },
+    {
+      "Archivo": "telco_sucio_3.csv",
+      "Filas": 2514,
+      "Columnas": 21,
+      "SHA-256": "def8c8739d9c5adc4a9e05efb9cc410f8cd027d7002d672cfc1daa726b9e37f3"
+    }
+  ],
+  "filas": 7303,
+  "columnas": 21,
+  "fecha": "2026-10-17"
+}
